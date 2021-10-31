@@ -1,2 +1,2 @@
-# cats_denoising-autoencoder
+# cats_denoising_autoencoder
 Simple autoencoder for cats dataset using PyTorch
