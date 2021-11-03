@@ -23,7 +23,7 @@
   __Output__
   > ___-> Tanh activation -> denoised images with a shape [3, 128, 128]___
 
-## Some denoised images. More of them you can find in 'more images' folder 
+## Some denoised images. More of them you can find in ['more images'](https://github.com/plazinho/cats_denoising_autoencoder/tree/main/more%20images) folder 
 
 ![clear-noised-1-10-50-16images-final](https://user-images.githubusercontent.com/88561819/140078530-bcf4e8d0-e09d-419c-9b71-ba31b949c926.png)
 
