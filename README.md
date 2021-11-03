@@ -5,6 +5,7 @@
 - __10000__ pictures were used for training and __2500__ for testing
 - Total parameters of autoencoder: __776,579__
 - The training was done for __50__ epochs
+- Learning rate scheduler was used to reduce learning rate while training
 - Autoencoder architecture:
   
   __Input__
@@ -24,10 +25,10 @@
 
 
 ### Denoising on the 1st epoch 
-![first_epoch](https://user-images.githubusercontent.com/88561819/139597149-c3bd76dc-8704-460d-98ac-8f92a26ea584.jpg)
 
-### Denoising on the 20th epoch 
-![20_epoch](https://user-images.githubusercontent.com/88561819/139597174-84c652d1-32ba-46c7-a30e-5b8c1ef398fd.jpg)
 
-### Denoising on the 30th epoch 
-![30_epoch](https://user-images.githubusercontent.com/88561819/139597784-72163f51-37b4-45ea-94a6-1c8f9cefa975.jpg)
+### Denoising on the 25th epoch 
+
+
+### Denoising on the 50th epoch 
+
