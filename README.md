@@ -18,10 +18,10 @@
   > ___-> MaxPool2d -> MaxUnpool2d ->___
   
   __Decoder__
-  > -> ___4 blocks of [ConvTranspose2d -> LeakyReLU activation] ->___
+  > ___-> 3 blocks of [ConvTranspose2d -> LeakyReLU activation] ->___
 
   __Output__
-  > ___-> Tanh activation -> denoised images with a shape [3, 128, 128]___
+  > ___-> ConvTranspose2d -> Tanh activation -> denoised images with a shape [3, 128, 128]___
 
 ## Some denoised images. More of them you can find [here](https://github.com/plazinho/cats_denoising_autoencoder/tree/main/more%20images)
 
